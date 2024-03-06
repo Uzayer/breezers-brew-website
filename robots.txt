@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://breezersbrew.org/sitemap.xml
