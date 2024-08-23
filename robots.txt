@@ -2,4 +2,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://breezersbrew.org/sitemap.xml
+Sitemap: https://uzayer.github.io/breezers-brew-website/sitemap.xml
